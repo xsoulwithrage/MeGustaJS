@@ -1,0 +1,114 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 0px;
+}
+.titulodirigido{
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    font-size: 30px;
+}   
+.principal1{
+    margin-left: 10px;
+}
+.caja{
+    display: flex;
+    justify-content:space-around;
+}
+.nato{
+    border: 2px solid black;
+    background-color:gainsboro;
+    height: 200px;
+    width: 200px;
+    margin-right: 10px;
+    padding-top: 20px;
+    align-content: center;
+    text-align: center;
+}
+.spider{
+    width: 120px;
+    height: 90px;
+    border-radius: 40px;
+}
+.nav{
+    color:white;
+    background-color: black;
+    display: flex;
+    justify-content:start;
+    align-items: center;
+    margin-bottom: 40px;
+}
+.cuadritolike{
+    
+    border: 2px solid black;
+    width:500px;
+    height: 150px;
+    background-color:gainsboro;
+    display:flex;
+    justify-content: space-around;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+.subtitulo{
+    font-size: 20px;
+    margin-left: 45px;
+    
+}
+.tabla2{
+    justify-content:space-around;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+} 
+.superlike{
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+    margin-right: 45px;
+    
+}
+.subtitulo2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 20px;
+}
+.parrafo{
+    margin-left: 90px;
+    padding-bottom: 20px;
+}
+.botonlike1{
+    width: 60px;
+    height: 25px;
+    background-color: rgb(240, 186, 50);
+    box-shadow: 9px 7px 5px 0px rgba(57, 50, 50, 0.75);
+}
+
+#numero{
+    margin-right: 10px;
+}
+
+#numero2{
+    margin-right: 10px;
+}
+#numero1{
+    margin-right: 10px;    
+}
+.botonlike2{
+    margin-right: 11px;
+    width: 60px;
+    height: 25px;
+    background-color: rgb(240, 186, 50);
+    box-shadow: 9px 7px 5px 0px rgba(57, 50, 50, 0.75);
+}
+.botonlike3{
+    margin-left: 17px;
+    width: 60px;
+    height: 25px;
+    background-color: rgb(240, 186, 50);
+    box-shadow: 9px 7px 5px 0px rgba(57, 50, 50, 0.75);
+}
+.subtituloA{
+    font-size: 20px;
+    margin-left: 60px;
+}
